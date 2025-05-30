@@ -1,0 +1,1 @@
+# Algoritmo-de-Codifica-o-Base64
