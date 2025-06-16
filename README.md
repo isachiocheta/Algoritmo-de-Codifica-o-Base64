@@ -114,13 +114,11 @@ Considerando o exemplo do texto: `Ciência`
 
 ### Expressão Matemática
 
-A fórmula geral para calcular o tamanho da saída codificada é:
+A fórmula geral para calcular o tamanho da saída codificada em Base64 é:
 
-$$
-\text{Saída}_{\text{Base64}} = 4 \cdot \left\lceil \frac{n}{3} \right\rceil
-$$
+Saída_Base64 = 4 × ceil(n / 3)
 
-Onde \( n \) é o número de bytes da entrada.
+Onde `n` é o número de bytes da entrada.
 
 ## 4. Conclusão
 
